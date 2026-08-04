@@ -38,9 +38,9 @@ pip install numpy pandas scipy matplotlib seaborn scikit-learn optuna xgboost li
 
 | Module | Title | Key Topics | Link |
 |---|---|---|---|
-| **01** | What is Machine Learning? | Types (Supervised, Unsupervised, RL), ML Workflow, Train/Test Split, Overfitting/Underfitting | [Module 01](course/module_01_what_is_ml.md) |
+| **01** | What is Machine Learning? | Types (Supervised, Unsupervised, RL), ML Workflow, Train/Test Split, Overfitting/Underfitting | [Module 01](course/module_01_what_is_ml) |
 | **02** | Data Preprocessing | Cleaning, Imputation, Encoding (One-Hot, Target), Scaling (Standard, Robust) | [Module 02](course/module_02_data_preprocessing.md) |
-| **03** | Linear & Logistic Regression | Hypothesis, MSE & Log-Loss, Gradient Descent, Sigmoid & Decision Boundaries | [Module 03](course/module_03_linear_logistic_regression.md) |
+| **03** | Linear & Logistic Regression | Hypothesis, MSE & Log-Loss, Gradient Descent, Sigmoid & Decision Boundaries | [Module 03](course/module_03_linear_logistic_regression) |
 | **04** | KNN, Naive Bayes & SVM | Distance metrics, Bayes Theorem, Support Vectors & Kernel Trick | [Module 04](course/module_04_knn_naive_bayes_svm.md) |
 | **05** | Decision Trees & Boosting | Tree splits, Entropy/Gini, Random Forests, XGBoost & LightGBM mechanics | [Module 05](course/module_05_tree_models_boosting.md) |
 | **06** | Model Evaluation | Confusion Matrix, Precision/Recall, ROC-AUC, Stratified K-Fold CV | [Module 06](course/module_06_model_evaluation.md) |
