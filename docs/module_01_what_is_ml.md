@@ -190,7 +190,7 @@ $$
 Let's unpack every single term:
 - $\hat{y}$ (pronounced **"y-hat"**): This hat symbol means "prediction". It's the numerical guess our model calculates.
 - $x_1, x_2, \dots, x_d$: Our raw input features (e.g., $x_1 = \text{Square Footage}$, $x_2 = \text{Bedrooms}$).
-- $w_1, w_2, \dots, w_d$: The **Weights**. Think of these as volume knobs on a sound board. If $w_1 = +500$, it means every additional square foot increases house price by \$500. If $w_2 = -2000$, it means every additional mile away from the city center decreases price by \$2,000.
+- $w_1, w_2, \dots, w_d$: The **Weights**. Think of these as volume knobs on a sound board. If $w_1 = +500$, it means every additional square foot increases house price by $\$500$. If $w_2 = -2000$, it means every additional mile away from the city center decreases price by $\$2{,}000$.
 - $b$: The **Bias** (or Intercept). This is the default starting baseline prediction when all inputs $x$ are zero.
 - $w^T x$: This is just compact vector shorthand (**dot product**) for multiplying corresponding weights and features and adding them up: $\sum_{j=1}^d w_j x_j$.
 
